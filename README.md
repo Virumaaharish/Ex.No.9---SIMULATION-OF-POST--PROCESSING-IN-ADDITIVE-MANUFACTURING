@@ -52,7 +52,7 @@
 
 ![Screenshot 2024-01-02 214112](https://github.com/Virumaaharish/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146074950/a4366e03-3ab5-4272-ba1b-2da985971326)
 ![Screenshot 2024-01-02 214128](https://github.com/Virumaaharish/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146074950/1e68571b-2194-43bb-9e4e-e4c47bd2a6a0)
-![Uploading Screenshot 2024-01-02 214144.png…]()
+![Screenshot 2024-01-02 214144](https://github.com/Virumaaharish/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146074950/326364fb-9308-4ade-a5de-9541c29e2ed0)
 
 
 
